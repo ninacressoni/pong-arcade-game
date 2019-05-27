@@ -1,3 +1,3 @@
-Pong Arcade Game Recreated. 
+# Pong Arcade Game Recreated. 
 
-# Play the pong.game at Codeskulptor.org
+Play the pong.game at Codeskulptor.org
